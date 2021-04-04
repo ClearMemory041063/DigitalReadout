@@ -1,0 +1,4 @@
+SDRO1 resistor values.
+2.2k connects to Tx pin of Arduino.
+3.3k connects to ground
+Junction of resistors connects to Rx pin of HC-05
