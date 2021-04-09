@@ -10,4 +10,4 @@ mm/inch button initialization fixed 7Apr2021.
 
 
 
-![alt text](https://github.com/ClearMemory041063/DigitalReadout/blob/master/Pictures/DrillingPatternofHoles.png"Logo Pattern drilling")
+
