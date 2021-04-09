@@ -7,3 +7,7 @@ SDRO1 is an Android application that receives data from the previously mentioned
 Check out the PDF files in the TestRun, Software and Hardware directories.
 
 mm/inch button initialization fixed 7Apr2021.
+
+
+
+![alt text](https://github.com/ClearMemory041063/DigitalReadout/blob/master/Pictures/DrillingPatternofHoles.png"Logo Pattern drilling")
