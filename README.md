@@ -8,6 +8,8 @@ Check out the PDF files in the TestRun, Software and Hardware directories.
 
 mm/inch button initialization fixed 7Apr2021.
 
-
+11Apr2021 Added SDRO1_H vesrion.
+This modifys the read patterb from a file so that is uses a file picker application.
+The suggested app id Lyesoft AppInventor. For links see the SDRO1H_03.pdf in the Software directory.
 
 
